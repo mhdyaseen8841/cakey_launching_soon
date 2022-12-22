@@ -11325,9 +11325,7 @@ video.bg-video {
     background-size: cover;
   }
 
-  body video {
-    display: none;
-  }
+  
 }
 .masthead {
   position: relative;
